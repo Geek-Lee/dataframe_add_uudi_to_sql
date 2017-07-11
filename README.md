@@ -1,0 +1,2 @@
+# dataframe_add_uudi_to_sql
+在dataframe上面增加一列uudi，然后把dataframe上传到数据库
